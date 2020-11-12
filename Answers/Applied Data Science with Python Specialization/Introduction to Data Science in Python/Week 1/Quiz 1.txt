@@ -136,4 +136,4 @@ import re
 pattern = X
 print(len(re.findall(pattern,text)))
 
-'freedom'
+'\(.\)'
