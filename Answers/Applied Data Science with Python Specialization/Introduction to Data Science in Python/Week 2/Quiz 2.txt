@@ -1,1 +1,117 @@
-Copy quiz 2 answers
+Q1
+For the following code, which of the following statements will not return True?
+
+import pandas as pd
+
+sdata = {'Ohio': 35000, 'Texas': 71000, 'Oregon': 16000, 'Utah': 5000}
+obj1 = pd.Series(sdata)
+states = ['California', 'Ohio', 'Oregon', 'Texas']
+obj2 = pd.Series(sdata, index=states)
+obj3 = pd.isnull(obj2)
+
+obj2['California'] == None
+
+
+
+
+Q2
+import pandas as pd
+d = {
+    '1': 'Alice',
+    '2': 'Bob',
+    '3': 'Rita',
+    '4': 'Molly',
+    '5': 'Ryan'
+}
+S = pd.Series(d)
+
+In the above python code, the keys of the dictionary d represent student ranks and the value for each key is a student name. Which of the following can be used to extract rows with student ranks that are lower than or equal to 3?
+
+S.iloc[0:3]
+
+
+
+
+Q3
+Suppose we have a DataFrame named df. We want to change the original DataFrame df in a way that all the column names are cast to upper case. Which of the following expressions is incorrect to perform the same?
+
+df.rename(mapper = lambda x: x.upper(), axis=1)
+
+
+
+
+Q4
+For the given DataFrame df we want to keep only the records with a toefl score greater than 105. Which of the following will not work?
+
+df.where(df['toefl_score'] > 105)
+
+
+
+
+Q5
+Which of the following can be used to create a DataFrame in Pandas?
+
+All of the above
+
+
+
+
+Q6
+Which of the following is an incorrect way to drop entries from the Pandas DataFrame named df shown below?
+
+df.drop('two')
+
+
+
+
+Q7
+For the Series s1 and s2 defined below, which of the following statements will give an error?
+
+import pandas as pd
+s1 = pd.Series({1: 'Alice', 2: 'Jack', 3: 'Molly'})
+s2 = pd.Series({'Alice': 1, 'Jack': 2, 'Molly': 3})
+
+s2.loc[1]
+
+
+
+
+Q8
+Which of the following statements is incorrect?
+
+loc and iloc are two useful and commonly used Pandas methods
+
+
+
+
+Q9 
+For the given DataFrame df shown above, we want to get all records with a toefl score greater than 105 but smaller than 115. Which of the following expressions is incorrect to perform the same?
+
+(df['toefl'] > 105) & (df['toefl'] < 110)
+
+
+
+
+Q10
+Which of the following is the correct way to extract all information related to the student named Alice from the DataFrame df given below:
+
+dt.T['Mathematics']
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
