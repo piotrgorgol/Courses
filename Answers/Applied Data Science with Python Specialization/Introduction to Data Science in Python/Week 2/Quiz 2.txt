@@ -78,7 +78,7 @@ s2.loc[1]
 
 Q8
 Which of the following statements is incorrect?
-
+ 
 loc and iloc are two useful and commonly used Pandas methods
 
 
