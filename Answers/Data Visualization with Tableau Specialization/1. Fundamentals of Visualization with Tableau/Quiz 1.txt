@@ -1,0 +1,63 @@
+Data Visualization and Its Importance
+LATEST SUBMISSION GRADE
+87.5%
+1.
+Question 1
+What is data visualization
+The communication of numerical or quantitative information in a visual manner.
+
+2.
+Question 2
+Print, an interactive web page, modeling clay, and crayons on paper are all acceptable media for a data visualization.
+
+True
+
+3.
+Question 3
+Approximately when do we estimate the first data visualization happened
+
+Pleistocene era
+
+4.
+Question 4
+What is one of the earliest documented examples of data visualization
+
+The Turin Papyrus map
+
+5.
+Question 5
+The information-seeking mantra states
+Overview first, zoom and filter, then details on demand.
+
+6.
+Question 6
+What is the goal of visualization
+
+Insights
+
+7.
+Question 7
+Which of these limitations apply to Tableau Public (Select all that apply.)
+
+You cannot save visualizations locally.
+8.
+Question 8
+What is the most important skill to use when you are making a data visualization with a new tool
+
+Patience
+
+9.
+Question 9
+Whose opinion matters the most when making a visualization
+
+1  1 point
+
+Your end user’s opinion
+
+
+10.
+Question 10
+When making a visualization, it is important to stick to using the tool defaults.
+
+False
+
