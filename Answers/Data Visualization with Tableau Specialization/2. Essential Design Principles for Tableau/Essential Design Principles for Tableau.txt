@@ -1,0 +1,384 @@
+1.
+Question 1
+True/False: You have 3 data points: 29%, 33%, 31%. It is appropriate to adjust the y-axis to start at 25% because the numbers are so close to each other.
+False
+
+2.
+Question 2
+Although most authors view pie charts as to-be-avoided at all costs, others do see them as effective. Select the one scenario where both pro- and anti-pie chart writers will agree that pie charts should not be used.
+When there are 5 or more categories that are to be compared.
+
+3.
+Question 3
+According to your readings, a functionalist perspective of data visualization is _________________.
+When a visualization effectively represents the data so that is can be understood quickly and easily.
+
+4.
+Question 4
+What's the one thing definitively wrong with this visualization:
+The y-axis doesn't start at zero.
+
+5.
+Question 5
+This visualization has several issues with its design. Identify the only one of the following that is not an issue with this visualization.
+a
+b
+C
+There is too much text.
+
+6.
+Question 6
+According to your readings, if you have a lot of categories in time series data, what is the best approach for your visualization from the following options:
+Trellis plot
+B
+c
+d
+
+7.
+Question 7
+True/False: It is more helpful to the reader to eliminate the axis altogether where appropriate and label individual data elements on the visualization itself.
+True
+
+8.
+Question 8
+A 3D chart should be used only in the following circumstances:
+Only when you need to plot three-dimensional data.
+
+9.
+Question 9
+Can you find the line with the average length in this set?
+Line C
+
+10.
+Question 10
+When doing a presentation for a large group of people, the best visualization to show differences between categories of data is one of the following:
+Bar graph
+
+11.
+Question 11
+A scatterplot is useful for showing ____________________.
+Two different measures.
+
+12.
+Question 12
+Pick the one time that you should not use a table.
+When you are presenting to a large, live meeting.
+
+13.
+Question 13
+Humans have developed perceptual and cognitive capabilities that initially tend to favor ___________________?
+Speed
+
+14.
+Question 14
+True/False: Data in a visualization must never be sorted based on the importance of the category of the data.
+False
+
+15.
+Question 15
+Suppose you have a bar graph that has values of 4 and 5. If you start the axis at 0 and increment by 1, then the visual increase between the bars showing 5 and 4 is 25%. See example A:
+What would the visual increase be between the bars representing 4 and 5 if you started the axis at 3 and incremented by one? See example B:
+100%
+
+16.
+Question 16
+Which most closely describes the process of visual encoding
+Translation
+
+17.
+System 1 refers to which type of thinking and responding?
+Fast, intuitive, and emotional
+
+18.
+Question 18
+If you had to figure out the sum of all line lengths, that would involve?
+Systems 1 and 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Module 2 Quiz
+
+The following element would be an example of accessing the reader's short-term memory.
+A
+A table that uses percentages instead of values.
+c
+d
+
+2.
+Question 2
+True/False: If you appeal to a reader's iconic memory, it will not be useful for appealing to a reader's short or long-term memory.
+False
+
+
+3.
+Question 3
+True/False: Eliminate all text to eliminate clutter.
+False
+
+4.
+Question 4
+Of the following, which would be best for reducing cognitive load on a 7 category bar graph?
+One color, no axis, but data labels.
+
+5.
+Question 5
+A scatterplot that has two colors identifying categories of data is a good example of this type of Gestalt perception:
+Similarity
+
+6.
+Question 6
+Suppose you want your audience to see how income per GDP for a set of countries has changed over the past 50 years so you do a line graph. What Gestalt principle are you applying here?
+Connection
+
+7.
+Question 7
+True/False: It is always superior to use many colors than using shades of gray and one additional color.
+False
+
+8.
+Question 8
+Which of these would be a poor application of a strategic use of contrast?
+Using different colors for each category and highlighting the important element with black.
+
+9.
+Question 9
+Visualizing data in three dimensions with a bar chart is appropriate only in the following circumstance.
+When data are expressed in such a way that visualizations must be done in three dimensions because graphing in two dimensions would be inappropriate.
+
+10.
+Question 10
+True/False: Eliminating clutter is more important than having a visual that is understandable because cluttered visuals have too much useless information.
+False
+
+11.
+Question 11
+Providing a reference line with shading on one side allows to highlight a group of values in a visualization. Which Gestalt principle is this?
+Enclosure
+
+12.
+Question 12
+Suppose you must include a table with numbers in a visualization to a large audience. What's the one thing listed below that you should not do to it?
+Put a contrasting color in each box.
+
+13.
+Question 13
+True/False: Sorting your data so that the values are in order is essential to any decluttering of visualizations.
+True
+
+14.
+Question 14
+One of your audience members in a small committee is color blind and you have decided to stick with only black and white in your visualizations. Which is the best way to provide a pre-attentive attribute in a scatterplot that has two categories?
+Use circles and fill one category and leave the other unfilled.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Module 3 Quiz
+
+1.
+Question 1
+An example of leveraging white space means that...
+The bars in a bar graph should not be too wide or too narrow.
+
+2.
+Question 2
+True/False: You can use any combination of fonts you'd like to add pop to your visual.
+False
+
+3.
+Question 3
+Choose the most appropriate way to design a visualization.
+Choose a corporate or a standard font that is consistent and easy to read.
+
+4.
+Question 4
+True/False: The Gestalt principle of proximity and the first law of geography are closely related.
+True
+
+5.
+Question 5
+The Gestalt principle of proximity does not mean...
+If a data point is not close to other points then it is not related at all.
+
+6.
+Question 6
+What would be the best guess for why there were Cholera deaths of people outside of the neighborhood of the polluted water pump?
+The victims who lived outside of the hot spot consumed water from the polluted pump despite living further away from the pump.
+
+7.
+Question 7
+What other attributes were used in the Cholera map to ascertain which water pump was polluted?
+Color and size
+
+8.
+Question 8
+True/False: If you're careful and thoughtful you can re-scale complex data to help aid in accessibility of your data.
+True
+
+9.
+Question 9
+True/False: It is unacceptable to use more than one type of pre-attentive attribute.
+False
+
+10.
+Question 10
+Outliers may be...
+Interesting in its own way and an analyst must understand the context
+
+11.
+Question 11
+In the lessons, we saw a strip plot, scatterplot, histogram, and control charts being used to investigate unusual data. Which of the following visualizations would be another good way to check for outliers?
+A map for data are within a defined geographic range (such as cities in a particular state or province) and there are a couple of points that are out of the expected range.
+
+12.
+Question 12
+True/False: Because a control chart is often used in manufacturing and heavy industry, paying attention to aesthetics and pre-attentive attributes is not as important.
+False
+
+13.
+Question 13
+Exploratory analysis is ______________?
+Understanding your data well to facilitate explanatory analysis.
+
+14.
+Question 14
+Anscombe's quartet showed _________________.
+Visualizations are necessary and complements summary statistics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Module 4 Quiz
+
+1. Which description best describes a persona?
+A document that captures the needs, goals and abilities of a specific audience segment.
+
+2.
+Question 2
+Which of the following is true about continuous data?
+Continuous data has a potentially infinite set of values.
+
+3.
+Question 3
+Colin Ware proposed three interlocking feedback loops of visualization. Which one in this list is not one of them?
+Color channeling
+
+4.
+Question 4
+What best describes the idea of progressive disclosure in an interactive visualization?
+Showing only the level of data that is needed at a particular part of an analytic process or workflow.
+
+5.
+Question 5
+What was the visual exaggeration in Florence Nightingales' "rose diagram"?
+The areas of the wedges
+
+6.
+Question 6
+Which of the following is not an example of a useful coordinated view approach?
+Distorting
+
+7.
+Question 7
+Which of the following is not true about discrete data?
+Discrete data have a potentially infinite set of values.
+
+8.
+Question 8
+Which two visual attributes are good for displaying quantitative measures?
+a
+Line length and 2D position
+c
+
+9.
+Question 9
+What's a common design problem for direct manipulation of graphical objects?
+A target area for selection is covered up or crowded out by other graphical objects.
+
+10.
+Question 10
+Why is it generally a good idea to start axes with a zero?
+It avoids distortions in the values being compared.
+
+11.
+Question 11
+Which of the following is not generally considered an essential element of a useful Persona description?
+The persona's pets' names
+
+12.
+Question 12
+Which visual attribute is good for displaying qualitative measures?
+Color intensity
+
+13.
+Question 13
+Which definition best fits the idea of "survivor bias"?
+A tendency to draw conclusions based on data from what survived a process and overlooking what did not.
+
+14.
+Question 14
+True/False: Tree maps are an example of Geospatial representation?
+False
+
