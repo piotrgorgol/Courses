@@ -1,0 +1,27 @@
+My visualization is avaialable at the link below.
+https://public.tableau.com/profile/peter4410#!/vizhome/Book1_15988025392070/Dashboard1?publish=yes
+
+How does your visualization leverage at least one “pop-out effect” or “pre-attentive attribute?”
+Which one(s) was (were) chosen and why?
+I’ve simply used red color to make three the worst departments stand out. Red color means that
+something is bad/wrong with those marked numbers. In this case they have lowest sales.
+
+
+How does your visualization utilize at least one Gestalt principle? Which principle(s) is (are) being
+reflected, and how?
+Similarity is that one Gestalt principle my visualization actually performs. Viz shows all elements as
+circles and only color make some of the stand out.
+
+
+How does your design reflect an understanding of cognitive load and clutter?
+I’ve removed almost all of headers, used only two colors.
+
+
+Is your visualization static or interactive? Why did you choose that format?
+My viz is interactive. By that I mean you can change the region of sales. You could observe how sales
+change in different regions. In this case in all regions the lowest sales departments are the same.
+
+
+What need does this visualization address that words or numbers alone cannot fill?
+I think it’s just simple to look at it and realize what’s going on. You just need one second to see what
+categories have the smallest sales.
