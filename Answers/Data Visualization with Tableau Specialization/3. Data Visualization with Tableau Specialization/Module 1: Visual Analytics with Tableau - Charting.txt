@@ -1,0 +1,250 @@
+Module 1: Visual Analytics with Tableau - Charting
+1.
+Question 1
+What is the difference between a bar chart and a line chart?
+A Bar Chart is best used for discrete data while a Line Chart is best used for continuous data.
+
+2.
+Question 2
+Which of the scenarios below is best suited for a bar chart?
+A chart showing a student's favorite after school activity
+
+3.
+Question 3
+Which of the following correctly describes how you would overlay one chart on top of another using Tableau?
+Create both of your charts, then right click on the second measure pill on your Rows Shelf and select "Dual Axis"
+
+4.
+Question 4
+How do you change the sizing options on a bar chart?
+Drag a measure to the Sizing option on the Marks Card, click on the Sizing option and then change the size of the marks.
+
+5.
+Question 5
+How do you edit the colors on a Tableau chart?
+Drag a measure to the Colors option on the Marks Card, click on the Colors option and then change the colors of the marks.
+
+6.
+Question 6
+What is the purpose of the Tableau Tooltip? (Select all that apply.)
+To provide the end user with additional information not shown in the worksheet or chart
+To provide the end user with additional information on what information is shown in the worksheet
+
+7.
+Question 7
+How do you edit or customize the Tooltip in Tableau? (Select all that apply.)
+Click on the Tooltip on the Marks card and make your edits directly in the Tooltip dialog box.
+Drag any measures you want in the tooltip to the tooltip on the marks card.
+
+8.
+Question 8
+When you have continuous data what would be the recommended kind of chart to use?
+Line Chart
+
+9.
+Question 9
+How do you align the axis on a dual axis chart?
+Right click the secondary axis and select Synchronize Axis.
+
+
+
+
+
+
+
+
+Module 2: Visual Analytics with Tableau - Dates
+1.
+Question 1
+Which of the following are examples of discrete dates? (Select all that apply.)
+Quarters in different years
+Months in different quarters
+
+2.
+Question 2
+Which of the following describes how Tableau handles a continuous date?
+A continuous date will be colored Green when dragged to the Row or Column Shelf
+
+3.
+Question 3
+Which of the following describes how Tableau handles a discrete date?
+A discrete date will be colored Blue when dragged to the Row or Column Shelf
+
+4.
+Question 4
+Under which circumstances might it be advisable to manually change the date field? (Select all that apply.)
+When you have a year date field and need to change it to months
+When you have a discrete date and need to convert it to a continuous date
+
+5.
+Question 5
+How do you convert a discrete date to a continuous date?
+Drag your date field to the Rows or Columns shelf and right click on the blue pill and click on Continuous
+
+6.
+Question 6
+What is the date hierarchy used for?
+To drill down into your data and show each date level (i.e. Years, Quarters, Months)
+
+7.
+Question 7
+Under which of the following scenarios would you use the date hierarchy?
+If your date is showing Years and you need to show both Years and Months
+
+8.
+Question 8
+What is the first step to go from a date year to a date month?
+Right click on the Year date pill and select Month
+
+9.
+Question 9
+Which chart is best for discrete dates?
+Bar chart
+
+10.
+Question 10
+Which chart is best for continuous dates?
+Line chart
+
+11.
+Question 11
+Which of the following shows the correct steps in the correct sequence to convert a continuous date to a discrete date in Tableau?
+Right click on your green date pill and select discrete
+
+12.
+Question 12
+What table calculation function would you use to determine the difference between two dates?
+DATEDIFF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Module 3: Visual Analytics with Tableau - Table Calculations
+1.
+Question 1
+What is a table calculation?
+Table calculations address data in the cache table and allow you to perform calculations on visible results
+
+2.
+Question 2
+Which of the following are ways table calculations are used?
+Table calculations are used to create new calculations
+
+3.
+Question 3
+Which of the following are among the 10 table calculations we covered? (Select all that apply.)
+Percent of Total
+Percentile
+Difference
+Percent Difference
+Moving Average
+Running Total
+
+4.
+Question 4
+Which of the following best describes or defines a calculated field?
+A calculated field is every field in your data set
+
+5.
+Question 5
+How do you create a calculated field in Tableau?
+Right click anywhere in the data pane and select Create Calculated Field
+
+6.
+Question 6
+Which of the following is a quick table calculation? (Select all that apply.)
+Month-to-Date Total
+Month-over-Month Difference
+
+
+7.
+Question 7
+Why is a worksheet filter used?
+To narrow down your data table or chart to specific fields and/or data
+
+8.
+Question 8
+How do you apply a worksheet filter in Tableau?
+Drag a dimension or measure to the filter data pane
+
+9.
+Question 9
+How do you show the filter options on a worksheet?
+Right click on your filter pill and select show filter
+
+10.
+Question 10
+What are Tableau parameters?
+Parameters are dynamic values that can replace constant values in calculations, filters, and reference lines
+
+
+
+
+
+
+
+
+
+
+
+Module 4: Visual Analytics with Tableau - Mapping
+1.
+Question 1
+Which of the following are geography fields that Tableau can utilize? (Select all that apply.)
+Zip Codes
+State Names
+Country Names
+
+2.
+Question 2
+How do you change the size of elements on your map in Tableau?
+Click on the size option on the marks card and increase or decrease the size of your map elements
+
+3.
+Question 3
+How do you change the shape of your map elements in Tableau?
+Click on the Shape detail option on the marks card and pick a new map elements
+
+4.
+Question 4
+How do you change the map layout to better fit your data?
+Click on Map on the options bar and select Map Layers
+
+5.
+Question 5
+How do you combine multiple maps onto one map in Tableau?
+Right click on the second Map Pill and click on Dual Axis
+
+6.
+Question 6
+Which of the following are ways you can edit unknown geographic locations in Tableau?
+Click on the notice on the bottom right hand corner of your Map and select Edit Locations
+
+7.
+Question 7
+Which of the following are reasons you might use a Tooltip feature in Tableau for your map? (Select all that apply.)
+To give the user tips on how to use the map
+To add additional information that is not shown on the Map
+
+8.
+Question 8
+How do you change the colors of your map elements in Tableau?
+Click on the Color option on the Marks card and change the color
+
+9.
+Question 9
+In what ways might you use a map in the context of data visualization?
+To chart geographical data
+
