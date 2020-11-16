@@ -1,0 +1,18 @@
+• What is/are the business question(s) this project will answer?
+They would like to know how company’s discount policy works and perform. If there’s a reason
+to keep discounts at all or is It necessary to cut companies who gets the biggest discount or
+just reduce its discount. Trying to find a pattern if discount given improves profit.
+
+• What data will be used to answer this question? Is the data capable of providing the
+information you are looking for?
+Data contains all the information needed to perform such a task. We’ve got all the information
+about given discount, sales, profit, profit-sales ratio, customer names etc.
+
+• Who is the audience of this visualization (to whom are these findings ultimately being
+presented)?
+Audience of this viz is 17 people including VP of Sales and Board Member.
+
+• How will your findings ultimately be displayed? Please list any special requirements of the
+user.
+The viz is going to be presented from a great distance across the room so it needs to be visible and
+easy to read from distance. Some of the people in audience need bigger fonts.
