@@ -1,0 +1,85 @@
+
+1.
+Question 1
+Consider the given NumPy arrays a and b. What will be the value of c after the following code is executed?
+46
+
+
+2.
+Question 2
+Given the string s as shown below, which of the following expressions will be True?
+bool(re.match('A', s)) == True
+
+
+3.
+Question 3
+Consider a string s. We want to find all characters (other than A) which are followed by triple A, i.e., have AAA to the right. We don’t want to include the triple A in the output and just want the character immediately preceding AAA . Complete the code given below that would output the required result.
+def result():
+    s = 'ACAABAACAAABACDBADDDFSDDDFFSSSASDAFAAACBAAAFASD'
+
+    result = []
+    pattern = 'A{3}(.*)\b(?<!AAA)'
+    for item in re.finditer(pattern, s):
+      result.append(item.group())
+      
+    return result
+
+
+
+4.
+Question 4
+
+Consider the following 4 expressions regarding the above pandas Series df. All of them have the same value except one expression. Can you identify which one it is?
+df.index[0]
+
+
+
+
+5.
+Question 5
+
+Consider the two pandas Series objects shown above, representing the no. of items of different yogurt flavors that were sold in a day from two different stores, s1 and s2. Which of the following statements is True regarding the Series s3 defined below?
+s3['Mango'] >=  s1.add(s2, fill_value = 0)['Mango']
+
+
+
+
+6.
+Question 6
+In the following list of statements regarding a DataFrame df, one or more statements are correct. Can you identify all the correct statements?
+Every time we call df.set_index(), the old index will be discarded.
+Every time we call df.reset_index(), the old index will be set as a new column.
+
+
+
+7.
+Question 7
+Consider the Series object S defined below. Which of the following is an incorrect way to slice S such that we obtain all data points corresponding to the indices 'b', 'c', and 'd'?
+S['b':'e']
+
+
+
+8.
+Question 8
+
+Consider the DataFrame df shown above with indexes 'R1', 'R2', 'R3', and 'R4'. In the following code, a new DataFrame df_new is created using df. What will be the value of df_new[1] after the below code is executed?
+88
+
+
+
+9.
+Question 9
+
+Consider the DataFrame named new_df shown above. Which of the following expressions will output the result (showing the head of a DataFrame) below?
+new_df.unstack().unstack()
+
+
+
+
+
+10.
+Question 10
+
+Consider the DataFrame df shown above. What will be the output (rounded to the nearest integer) when the following code related to df is executed:
+30
+
