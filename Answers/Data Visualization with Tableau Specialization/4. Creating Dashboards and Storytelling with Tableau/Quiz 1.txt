@@ -1,0 +1,94 @@
+Module 1
+1.
+Question 1
+When thinking about a story, which of the following best describes the fundamental structure?
+Context, Challenge, Conclusion
+
+2.
+Question 2
+Which are potential benefits of using stories?
+All of the above
+
+3.
+Question 3
+Which is a potential drawback to using stories for data?
+False narratives
+
+4.
+Question 4
+Talking to stakeholders can help you
+All of the above
+
+5.
+Question 5
+What best describes the meaning of expressiveness and effectiveness in relation to data visualization and storytelling?
+Expressiveness is about displaying all the relevant data for an accurate understanding and effectiveness is the ability of the visualization to convey the meaning
+
+
+6.
+Question 6
+Which of the following is not a primary consideration in developing a design strategy for a visualization?
+Determining the best chart before talking to anyone
+
+7.
+Question 7
+Which description best describes a Persona?
+
+Highly specific archetypes or representatives of a particular user segment
+
+
+8.
+Question 8
+Which of the following best describes an important purpose of Personas?
+Help consolidate very different types of users into one “average” type
+
+Prioritize design requirements
+
+
+
+9.
+Question 9
+Which choice below is not generally considered an essential element of a useful Persona description?
+The Persona's pet's name
+
+
+10.
+Question 10
+It's good practice in the beginning of an audience interview to
+Ask open-ended questions about interviewee's goals and pain points
+
+
+11.
+Question 11
+Questions to consider about your data include
+All of the above
+
+
+12.
+Question 12
+Which is a potential pitfall of turning data patterns into narratives?
+Conflating correlation and causation
+
+
+13.
+Question 13
+One reason Tableau is great for finding stories in data and alternative ways to express them is
+It's relatively fast and easy to import, visualize, and evaluate data in different ways
+
+
+14.
+Question 14
+To increase the likelihood of your design's success, you should
+Try to match, balance, and align stakeholder and audience goals
+
+
+15.
+Question 15
+Albert Einstein is said to have remarked which of the following?
+"Make things as simple as possible, but not simpler."
+
+16.
+Question 16
+What is a tool that Tableau offers to help you organize your data story?
+Story Points
+
