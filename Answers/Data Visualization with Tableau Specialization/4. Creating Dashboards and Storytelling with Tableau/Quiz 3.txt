@@ -1,0 +1,54 @@
+Module 3
+1.
+Question 1
+A dashboard is _____________.
+A visual display of the most important information needed to achieve one or more objectives.
+
+2.
+Question 2
+What is a text object in Tableau?
+A floating box that allows you to write any text you’d like and can be moved. It can only be used in a dashboard.
+
+3.
+Question 3
+When sizing a dashboard, set the size in the upper left of the dashboard layout screen to:
+Automatic so that Tableau can adjust based on screen size.
+
+4.
+Question 4
+A filter action in a dashboard is accessed in the following ways:
+Going to the drop down, selecting either worksheet or dashboard then selecting “action”.
+
+5.
+Question 5
+How do you get the dashboard objects to align in a way that you want them to align?
+You have to select the layout and adjust the numbers to where you need them to be most accurate.
+
+6.
+Question 6
+Actions are powerful tools for your dashboard. So what is the most important thing to do before launching your dashboard that has actions in them?
+Test different ways of clicking to make sure that it doesn’t throw weird results.
+
+7.
+Question 7
+How can you make sure that a filter is connected to all of the visualizations in a dashboard?
+By selecting “apply to worksheets” and choosing an option from the menu.
+
+8.
+Question 8
+If there is filtering that would not make sense for a dashboard, select any of the possible options. (Select all that apply.)
+Control the filtering through an action.
+Select the down arrow in the filter and choose “only relevant values”
+Do not include a filter that would create contextual problems.
+
+9.
+Question 9
+Tableau will not render a dashboard perfectly for other devices. What’s one possible way to address this issue?
+Select “automatic” in the sizing of the dashboard.
+
+10.
+Question 10
+"I can pull in my mobile data, I can pull in my Google Analytics data. I can pull in my social data. I can pull in my Salesforce and CRM data and see that 360° view of that prospect and the customer."
+
+This statement best represents which of the core characteristics of modern dashboards?
+Pull Data from all sources to get the full picture
