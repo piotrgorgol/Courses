@@ -137,6 +137,7 @@ def mlb_correlation():
     mlb_df['nickname'] = mlb_df['team'].str.replace('[\w ]* ','')
     mlb_df['nickname'] = mlb_df['nickname'].str.replace('\s\(\w*\)','')
     mlb_df.iat[22, 2] = 'Cardinals'
+    mlb_df.iat[8, 2] = 'White Sox'
 #     display(mlb_df)
 
 #     # cities
@@ -150,13 +151,14 @@ def mlb_correlation():
     nicknames = pd.merge(nicknames, cities, how='left', on='Metropolitan area')
     nicknames['nickname'] = nicknames['nickname'].str.replace('[\w.]*\ ', '')
     nicknames = nicknames.iloc[:, :3]
+    nicknames.iat[-1, 1] = 'White Sox'
 #     display(nicknames)
 
 # #     # merge
     merged = pd.merge(mlb_df, nicknames, how='outer', on='nickname')
-    merged = merged.astype({'Population': int})
+    merged = merged.astype({'Population': int, 'W-L%': float})
     merged = merged.groupby('Metropolitan area').agg({'W-L%': np.mean, 'Population': np.mean})
-#     display(merged)
+    display(merged)
     
     population_by_region = merged['Population'] # pass in metropolitan area population from cities
     win_loss_by_region = merged['W-L%'] # pass in win/loss ratio from mlb_df in the same order as cities["Metropolitan area"]
